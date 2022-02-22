@@ -1,5 +1,7 @@
 # C1 Batch Copy And Apply
 
+Capture One script to batch copy and apply settings.
+
 ## Installation
 
 1. Copy the script file into `~/Library/Scripts/Capture\ One\ Scripts`
